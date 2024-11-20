@@ -24,6 +24,6 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/yourusername/costy-ecommerce.git
+   git clone https://github.com/CelikCebrail/Costy-E-Handel/tree/main
 
 ![](bild.gif)# Costy-E-Handel
